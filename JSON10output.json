@@ -1,0 +1,122 @@
+[
+ {
+  "category": "Apparel",
+  "price": 190.92,
+  "name": "Deluxe Kit"
+ },
+ {
+  "category": "Apparel",
+  "price": 181.68,
+  "name": "Smart Tool"
+ },
+ {
+  "category": "Apparel",
+  "price": 181.38,
+  "name": "Super Widget"
+ },
+ {
+  "category": "Apparel",
+  "price": 170.76,
+  "name": "Pro Set"
+ },
+ {
+  "category": "Apparel",
+  "price": 157.66,
+  "name": "Pro Widget"
+ },
+ {
+  "category": "Apparel",
+  "price": 153.87,
+  "name": "Ultra Tool"
+ },
+ {
+  "category": "Apparel",
+  "price": 152.97,
+  "name": "Eco Widget"
+ },
+ {
+  "category": "Apparel",
+  "price": 150.57,
+  "name": "Super Tool"
+ },
+ {
+  "category": "Books",
+  "price": 194.81,
+  "name": "Deluxe Tool"
+ },
+ {
+  "category": "Books",
+  "price": 179.85,
+  "name": "Smart Device"
+ },
+ {
+  "category": "Books",
+  "price": 161.64,
+  "name": "Pro Gadget"
+ },
+ {
+  "category": "Electronics",
+  "price": 191.2,
+  "name": "Mini Widget"
+ },
+ {
+  "category": "Electronics",
+  "price": 186.74,
+  "name": "Eco Tool"
+ },
+ {
+  "category": "Electronics",
+  "price": 158.26,
+  "name": "Eco Item"
+ },
+ {
+  "category": "Electronics",
+  "price": 158.22,
+  "name": "Eco Gadget"
+ },
+ {
+  "category": "Electronics",
+  "price": 154.02,
+  "name": "Mini Tool"
+ },
+ {
+  "category": "Electronics",
+  "price": 151.35,
+  "name": "Pro Item"
+ },
+ {
+  "category": "Home",
+  "price": 166.39,
+  "name": "Super Tool"
+ },
+ {
+  "category": "Home",
+  "price": 152.24,
+  "name": "Super Device"
+ },
+ {
+  "category": "Toys",
+  "price": 198.41,
+  "name": "Deluxe Widget"
+ },
+ {
+  "category": "Toys",
+  "price": 177.83,
+  "name": "Ultra Kit"
+ },
+ {
+  "category": "Toys",
+  "price": 163.52,
+  "name": "Mini Item"
+ },
+ {
+  "category": "Toys",
+  "price": 158.97,
+  "name": "Eco Set"
+ },
+ {
+  "category": "Toys",
+  "price": 149.52,
+  "name": "Smart Set"
+ }
+]
